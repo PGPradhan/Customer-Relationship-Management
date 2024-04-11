@@ -10,11 +10,11 @@
   4. RFM Scoring
 
 <h2>Focuses On</h2>
-1. Lead Scoring based on RFM (Recenecy Frequency Monitoring) Score
-2. Performed Lead Source Tracking based on Segmentation.
-3. Sales Forecasting based on Linear Regression and  Seasonal Forecasting Model
+1. Lead Scoring based on RFM (Recenecy Frequency Monitoring) Score <br>
+2. Performed Lead Source Tracking based on Segmentation. <br>
+3. Sales Forecasting based on Linear Regression and  Seasonal Forecasting Model <br>
 
 <h2>HOW TO RUN</h2>
-1) Clone the Repo
-2) Install the dependencies in <b>requirements.txt </b>
-3) Run the command <b>streamlit run Homepage.py </b> 
+1) Clone the Repo <br>
+2) Install the dependencies in <b>requirements.txt </b> <br>
+3) Run the command <b>streamlit run Homepage.py </b> <br>
